@@ -14,7 +14,7 @@ namespace WebApi1.Controllers
         [HttpGet]
         public ActionResult<string> Get()
         {
-            return "this api is version 1.0";
+            return "this api is version 2.0";
         }
 
         // GET api/values/5
